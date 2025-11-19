@@ -8,7 +8,7 @@ export default function Footer() {
       transition={{ duration: 1 }}
       className="py-6 text-center text-gray-400"
     >
-      © {new Date().getFullYear()} Your Name
+      © {new Date().getFullYear()} Vinoothna Ande
     </motion.footer>
   );
 }
